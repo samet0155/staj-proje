@@ -1,0 +1,10 @@
+Dosya: configs\app.env | Zaafiyet: Hardcoded password/secret detected | Satır: 2
+Dosya: configs\app.env | Zaafiyet: Hardcoded password/secret detected | Satır: 2
+Dosya: configs\app.yml | Zaafiyet: Hardcoded password/secret detected | Satır: -
+Dosya: configs\app.yml | Zaafiyet: Hardcoded password/secret detected | Satır: -
+Dosya: configs\config.json | Zaafiyet: Hardcoded password/secret detected | Satır: -
+Dosya: configs\config.json | Zaafiyet: Hardcoded password/secret detected | Satır: -
+Dosya: configs\db.ini | Zaafiyet: Hardcoded password/secret detected | Satır: 3
+Dosya: configs\extra.cfg | Zaafiyet: Hardcoded password/secret detected | Satır: 2
+Dosya: configs\test.conf | Zaafiyet: Hardcoded password/secret detected | Satır: 3
+Dosya: configs\test.conf | Zaafiyet: PermitRootLogin is enabled | Satır: 5

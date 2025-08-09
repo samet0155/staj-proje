@@ -1,0 +1,27 @@
+[
+  {
+    "File": "configs\\app.yml",
+    "Rule": "Hardcoded password/secret detected (YAML key: database)",
+    "Line": 0
+  },
+  {
+    "File": "configs\\db.ini",
+    "Rule": "Hardcoded password/secret detected",
+    "Line": 3
+  },
+  {
+    "File": "configs\\test.conf",
+    "Rule": "Hardcoded password/secret detected",
+    "Line": 1
+  },
+  {
+    "File": "configs\\test.conf",
+    "Rule": "Hardcoded password/secret detected",
+    "Line": 2
+  },
+  {
+    "File": "configs\\test.conf",
+    "Rule": "PermitRootLogin is enabled",
+    "Line": 3
+  }
+]

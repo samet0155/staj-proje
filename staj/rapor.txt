@@ -1,0 +1,3 @@
+Dosya: configs\test.conf, Zaafiyet: Hardcoded password/secret detected at line 1
+Dosya: configs\test.conf, Zaafiyet: Hardcoded password/secret detected at line 2
+Dosya: configs\test.conf, Zaafiyet: PermitRootLogin is enabled at line 3
